@@ -1,0 +1,262 @@
+body{
+    margin: 0px;
+    background-color: rgb(45, 49, 49);
+}
+.dt{
+    float: right;
+    margin: 20px 10px;
+    background-color: rgb(212, 23, 23);
+    color: white;
+    height: 40px;
+    width: 90px;
+    border-radius: 10px;
+    
+}
+.all{
+    background-image: url(/images/netflix\ 3.jpeg );
+    background-repeat: no-repeat;
+    background-size: 100% 900px;
+    height: 900px;
+
+}
+.all img{
+    height: 100px;
+}
+.text{
+color: white;
+font-size: 40px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.texttwo{
+    font-size: 23px;
+    
+
+}
+.first{
+    
+    height: 600px;
+    width: 950px;
+  margin-left: 200px;
+  
+}
+
+.o{
+    color:white;
+    background-color: red;
+    font-size: 20px;
+    height: 50px;
+    width: 200px;
+}
+.c{
+    color:white;
+    font-size: 20px;
+    height: 40px;
+    background-color: transparent;
+    opacity: 3px;
+
+}
+
+  /* second page */
+
+.two{
+border: 4px solid rgb(218, 234, 218);
+height: auto;
+background-image: linear-gradient(rgb(225, 15, 15),rgb(16, 39, 104),darkblue);
+
+}
+.two{
+    margin: 50px 30px;
+}
+.twow{
+    height: 200px;
+    width: 800px;
+    float: left;
+    font-size: 30px;
+    padding: 100px;
+    margin-left: 50px;
+
+}
+.t{
+    font-size: 20px;
+    width: 400px;
+    height: 40px;
+  
+}
+
+.sec{
+   height: 400px;
+   width: 600px;
+    background-image: url(./images/second\ page.png);
+    background-repeat: no-repeat;
+    margin: 30px 700px;
+}
+.imgt{
+    height: 600px;
+    width: 400px;
+}
+hr{
+    width: 1300px;
+    height: 7px;
+    background-color: rgb(34, 32, 45);
+    border: 1px solid rgb(33, 33, 48);
+}
+/* third page */
+
+
+.third{
+    height: 200px;
+    width: 800px;
+    float: right;
+    font-size: 30px;
+    text-align: end;
+    padding: 100px;
+    margin-left: 50px 900px;
+
+}
+.th{
+    font-size: 20px;
+    width: 400px;
+    float: right;
+     height: 40px;
+     margin: 20px;
+}
+
+.thi{
+   height: 400px;
+   width: 600px;
+    background-image: url(/images/3rd\ img.png);
+    background-repeat: no-repeat;
+    margin: 30px 70px;
+}
+.imgt{
+    height: 600px;
+    width: 400px;
+}
+/* forth page */
+
+.forth{
+    height: 200px;
+    width: 700px;
+    font-size: 30px;
+   margin: 50px 90px;
+
+}
+.fo{
+    
+width: 600px;
+font-size: 20px;
+    
+}
+
+.for{
+   height: 500px;
+   width: 600px;
+    background-image: url(/images/4th\ img.png);
+    background-repeat: no-repeat;
+    
+
+}
+.fgh{
+    display: flex;
+}
+    
+
+/* fifth page */
+.fifth{
+    height: 200px;
+    width: 700px;
+    float: right;
+    font-size: 30px;
+
+
+
+}
+.fi{
+    font-size: 20px;
+    
+    
+     height: 40px;
+     margin: 20px;
+}
+
+.fif{
+   height: 400px;
+   width: 600px;
+    background-image: url(./images/5th\ page.png);
+    background-repeat: no-repeat;
+    margin: 30px 70px;
+}
+.imgt{
+    height: 600px;
+    width: 400px;}
+
+
+    /*  */
+    .same{
+        border: 2px solid rgb(36, 36, 52);
+        height: 50px;
+        width: 1300px;
+        background-color: rgb(27, 27, 60);
+       padding: 20px 30px;
+    }
+    .same span{
+        float: right;
+    }
+
+    .last {
+        margin: 70px;
+        font-size: 20px;
+    }
+.links a{
+   color: white;
+   grid-template-columns: 100px 100px 100px;
+   grid-template-rows: 100px 100px 100px;
+   font-size: 20px;
+}
+
+.grid a{
+   
+    border: 2px solid red;
+     color: white; 
+     font-size: small;
+     grid-template-columns: 200px 100px 100px;
+     grid-template-rows: 200px 100px 100px;
+     grid: 10px;
+     height: 200px;
+
+}
+.red{
+    background-color: rgb(31, 30, 30);
+
+    float: left;
+    margin: 20px 10px;
+  
+    color: white;
+    height: 40px;
+    width: 100px;
+    
+    
+   }
+   .color a{
+    color: white;
+
+   }
+
+   .color{
+
+    padding: 50px;
+    font-size: 25px;
+    text-align:start;
+    width: 55%;
+    
+
+
+   }
+   .last .same{
+    margin: 10px;
+    font-size: 30px;
+
+   }
+  
+
+
