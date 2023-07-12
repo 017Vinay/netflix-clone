@@ -86,7 +86,7 @@ background-image: linear-gradient(rgb(225, 15, 15),rgb(16, 39, 104),darkblue);
 .sec{
    height: 400px;
    width: 600px;
-    background-image: url(./images/second\ page.png);
+    background-image: url("./images/second.png");
     background-repeat: no-repeat;
     margin: 30px 700px;
 }
@@ -124,7 +124,7 @@ hr{
 .thi{
    height: 400px;
    width: 600px;
-    background-image: url(/images/3rd\ img.png);
+    background-image: url("./images/third.png");
     background-repeat: no-repeat;
     margin: 30px 70px;
 }
@@ -151,7 +151,7 @@ font-size: 20px;
 .for{
    height: 500px;
    width: 600px;
-    background-image: url(/images/4th\ img.png);
+    background-image: url("./images/imag.png");
     background-repeat: no-repeat;
     
 
@@ -182,7 +182,7 @@ font-size: 20px;
 .fif{
    height: 400px;
    width: 600px;
-    background-image: url(./images/5th\ page.png);
+    background-image: url("./images/fifth.png");
     background-repeat: no-repeat;
     margin: 30px 70px;
 }
@@ -253,8 +253,11 @@ font-size: 20px;
 
    }
    .last .same{
-    margin: 10px;
+    margin: 5px;
     font-size: 30px;
+    /* justify-content: space-around0;
+    padding: 100px; */
+
 
    }
   
