@@ -13,7 +13,7 @@ body{
     
 }
 .all{
-    background-image: url("/images/netflix\ 3.jpeg ");
+    background-image: url("./images/netflix\ 3.jpeg ");
     background-repeat: no-repeat;
     background-size: 100% 900px;
     height: 900px;
